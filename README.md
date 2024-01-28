@@ -1,6 +1,6 @@
 # key-presser-teller
 
-Welcome to Key 'presser teller', a simple web project built with HTML, CSS, and JavaScript that instantly detects and displays the key you pressed.
+Welcome to Key `presser teller`, a simple web project built with HTML, CSS, and JavaScript that instantly detects and displays the key you pressed.
 
 ## Key Features
 
